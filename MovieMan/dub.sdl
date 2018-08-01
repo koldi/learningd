@@ -1,0 +1,5 @@
+name "movieman"
+description "A minimal D application."
+authors "Gyögry Katona"
+copyright "Copyright © 2018, Gyögry Katona"
+license "proprietary"

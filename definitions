@@ -1,0 +1,16 @@
+dmd - digital mars d compiler - fast, but not optimized(develop)
+gdc - d compiler on top of GCC - slower but optimized(release)
+ldc - d compiler with LLVM toolchain - slower but optimized(release)
+dub - D build tool and package manager
+module - D source file - 
+package - group of modules. 1 module only in 1 package, package can be a subpackage
+UFCS - Uniform Function Call Syntax - seconds(1) and 1.seconds are eequivalent
+
+
+links:
+http://dlang.org/ - official site
+https://github.com/D-Programming-Language/dlang.org - dlang source
+https://issues.dlang.org/ - bug tracker
+http://dlang.org/faq.html#q1 - faq
+http://forum.dlang.org/ - newsgroup server maintained by Digital Mars. - opensource: DFeed
+http://forum.rejectedsoftware.com/groups/rejectedsoftware.dub/ - DUB forum

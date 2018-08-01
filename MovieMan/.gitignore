@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+movieman.so
+movieman.dylib
+movieman.dll
+movieman.a
+movieman.lib
+movieman-test-*
+*.exe
+*.o
+*.obj
+*.lst
