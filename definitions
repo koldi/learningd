@@ -5,8 +5,18 @@ dub - D build tool and package manager
 module - D source file - 
 package - group of modules. 1 module only in 1 package, package can be a subpackage
 UFCS - Uniform Function Call Syntax - seconds(1) and 1.seconds are eequivalent
+sdl - Simple Declarative Language
+UCN - Universal Character Names - 
+FQN - fully qualyfied name - package.module.function()
+Parker, Michael. Learning D (p. 26). Packt Publishing. Kindle Edition. 
+package.d - special module, contains multiple imports, and use them as package
+value range propagation - determine whether or not to allow compilation without a cast.
+alias declaration - alieas MyInt - int;
 
+Parker, Michael. Learning D (p. 41). Packt Publishing. Kindle Edition. 
+Parker, Michael. Learning D (p. 40). Packt Publishing. Kindle Edition. 
 
+Parker, Michael. Learning D (p. 40). Packt Publishing. Kindle Edition. 
 links:
 http://dlang.org/ - official site
 https://github.com/D-Programming-Language/dlang.org - dlang source
@@ -14,3 +24,10 @@ https://issues.dlang.org/ - bug tracker
 http://dlang.org/faq.html#q1 - faq
 http://forum.dlang.org/ - newsgroup server maintained by Digital Mars. - opensource: DFeed
 http://forum.rejectedsoftware.com/groups/rejectedsoftware.dub/ - DUB forum
+http://semitwist.com/sdl-mirror/Language+Guide.html
+http://dlang.org/lex.html - keywords - reserved keywords
+http://dblog.aldacron.net/floating-point-literals-in-d/.
+
+Parker, Michael. Learning D (pp. 38-39). Packt Publishing. Kindle Edition. 
+Parker, Michael. Learning D (p. 26). Packt Publishing. Kindle Edition. 
+Parker, Michael. Learning D (p. 21). Packt Publishing. Kindle Edition. 
