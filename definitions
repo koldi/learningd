@@ -12,11 +12,11 @@ Parker, Michael. Learning D (p. 26). Packt Publishing. Kindle Edition.
 package.d - special module, contains multiple imports, and use them as package
 value range propagation - determine whether or not to allow compilation without a cast.
 alias declaration - alieas MyInt - int;
+properties - values that can be queried to divine information about types or type instances(i.e.: .init, .sizeof, .min, .max )
 
 Parker, Michael. Learning D (p. 41). Packt Publishing. Kindle Edition. 
-Parker, Michael. Learning D (p. 40). Packt Publishing. Kindle Edition. 
 
-Parker, Michael. Learning D (p. 40). Packt Publishing. Kindle Edition. 
+
 links:
 http://dlang.org/ - official site
 https://github.com/D-Programming-Language/dlang.org - dlang source
@@ -27,7 +27,6 @@ http://forum.rejectedsoftware.com/groups/rejectedsoftware.dub/ - DUB forum
 http://semitwist.com/sdl-mirror/Language+Guide.html
 http://dlang.org/lex.html - keywords - reserved keywords
 http://dblog.aldacron.net/floating-point-literals-in-d/.
+http://dlang.org/property.html.
 
-Parker, Michael. Learning D (pp. 38-39). Packt Publishing. Kindle Edition. 
-Parker, Michael. Learning D (p. 26). Packt Publishing. Kindle Edition. 
-Parker, Michael. Learning D (p. 21). Packt Publishing. Kindle Edition. 
+Parker, Michael. Learning D (pp. 41-42). Packt Publishing. Kindle Edition. 
