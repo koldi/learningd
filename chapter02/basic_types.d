@@ -11,4 +11,8 @@ void main() {
     writefln(formatStr, "uint", uint.sizeof, uint.min, uint.max);
     writefln(formatStr, "long", long.sizeof, long.min, long.max);
     writefln(formatStr, "ulong", ulong.sizeof, ulong.min, ulong.max);
+
+    float f;
+    writeln(f == f);
+    writeln(f is f);
 }
