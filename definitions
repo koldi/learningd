@@ -11,8 +11,18 @@ FQN - fully qualyfied name - package.module.function()
 package.d - special module, contains multiple imports, and use them as package
 value range propagation - determine whether or not to allow compilation without a cast.
 alias declaration - alieas MyInt - int;
+properties - values that can be queried to divine information about types or type instances(i.e.: .init, .sizeof, .min, .max )
+WYSIWYG (What You See is What You Get)
+const - create a new type - no data will be modified through that particular reference
+immutable - create a new type - never ever going to change throughout the lifetime of the program
+ref - storage class, not a type qualifier, not part of the type
+function attributes - nothrow, pure, @nogc
+closure - delegate needs to reference a variable which is out of scope, compiler allocates some memory, saves the state, and gives a pointer to the delegate
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 809cb92717f9c622031bc313321bd4bd71c4697f
 links:
 http://dlang.org/ - official site
 https://github.com/D-Programming-Language/dlang.org - dlang source
@@ -23,3 +33,9 @@ http://forum.rejectedsoftware.com/groups/rejectedsoftware.dub/ - DUB forum
 http://semitwist.com/sdl-mirror/Language+Guide.html
 http://dlang.org/lex.html - keywords - reserved keywords
 http://dblog.aldacron.net/floating-point-literals-in-d/.
+<<<<<<< HEAD
+=======
+http://dlang.org/property.html.
+
+Parker, Michael. Learning D (pp. 41-42). Packt Publishing. Kindle Edition. 
+>>>>>>> 809cb92717f9c622031bc313321bd4bd71c4697f
